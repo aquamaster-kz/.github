@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## Welcome to the [aquamaster.kz](aquamaster.kz) project! 
-This initiative is a small business run by my parents in Kazakhstan, and I am helping them create an updated website. My goal is to build a user-friendly landing page and an online store where customers can easily find and purchase water filters.
+This initiative is a small business run by my parents in Kazakhstan, specializing in water purification and osmosis systems for water treatment. I am helping them create an updated website. My goal is to build a user-friendly landing page and an online store where customers can easily find and purchase water filters.
 
 ## Tech Stack
 
